@@ -1,5 +1,13 @@
 body {
   font-family: 'Amatic SC', cursive !important;
+  width: 100vw;
+}
+
+@media (max-width: 767.98px) {
+  .stunami-img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .bg-black {
